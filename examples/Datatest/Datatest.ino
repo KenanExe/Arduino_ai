@@ -23,4 +23,5 @@ void setup() {
 void loop() {
     // Update and handle incoming messages
     chatbot.update();
+    delay(100);
 }
